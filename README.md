@@ -1,4 +1,4 @@
-# Data_Analytics
+# Students perfomence index prediction and visualization
 [Data_Visualization Projects on USA House price dataset](https://github.com/shakiraa125/Data_Analytics/blob/main/project%20(1).ipynb)\
 Developed an interactive data visualization project to analyze the USA House Price dataset, focusing on identifying trends and patterns in housing prices. Utilized Python libraries such as Pandas, Matplotlib, and Seaborn to create various visualizations, including bar plots, histograms, scatter plots, and heatmaps. The visualizations highlighted key insights such as the impact of location, property size, and amenities on house prices
 
